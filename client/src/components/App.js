@@ -22,7 +22,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="app">
+      <div className="container">
         <h1>Welcome</h1>
         <p>hi</p>
       </div>
